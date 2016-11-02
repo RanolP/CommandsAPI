@@ -1,0 +1,3 @@
+name: CommandsAPI
+version: 1.0
+main: me.ranol.commandsapi.CommandsAPI
